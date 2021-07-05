@@ -1,2 +1,2 @@
 # profilePicViewer
-To view profile picture of a GitHub user by entering their Username.
+To view profile picture of a GitHub user by entering a valid Username.
